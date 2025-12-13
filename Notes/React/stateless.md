@@ -1,0 +1,1 @@
+Stateless components (often written as **functional components**) are primarily used in React to receive data via **props** and display static information. They don't manage their own internal state, focusing instead on presenting data without dynamic behavior.

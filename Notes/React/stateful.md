@@ -1,0 +1,1 @@
+In React stateful components, we use variables, called **state**, to hold data that must change over time to create dynamic behavior. We use **Hooks** (like `useState`) to manage and update this state; when the state changes, React automatically triggers the component to **re-render** to reflect the new data.
