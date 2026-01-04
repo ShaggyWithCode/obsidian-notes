@@ -195,16 +195,254 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/custom hooks.md",
+                "file": "Variables in JavaScript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "custom hooks"
+              "title": "Variables in JavaScript"
+            }
+          },
+          {
+            "id": "72ce91908d6687ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/Javascript Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Javascript Roadmap"
+            }
+          },
+          {
+            "id": "0edd670c49f0d715",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/Javascript Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Javascript Roadmap"
+            }
+          },
+          {
+            "id": "c5a60eb4e77c5e16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functions & Scope.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Functions & Scope"
+            }
+          },
+          {
+            "id": "2a46e11c5648b742",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functions & Scope.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Functions & Scope"
+            }
+          },
+          {
+            "id": "1684214c543cab90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/Javascript Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Javascript Roadmap"
+            }
+          },
+          {
+            "id": "b37032bdfb9f4bf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/Javascript Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Javascript Roadmap"
+            }
+          },
+          {
+            "id": "a647c4386f91e53c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/Functions & Scope.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Functions & Scope"
+            }
+          },
+          {
+            "id": "3ba3b01b21b2b74b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/Javascript Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Javascript Roadmap"
+            }
+          },
+          {
+            "id": "23bd9c4584854a80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/this clarity traditional and arrow function doc.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "this clarity traditional and arrow function doc"
+            }
+          },
+          {
+            "id": "66d7f16b81d1df91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/this clarity traditional and arrow function doc.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "this clarity traditional and arrow function doc"
+            }
+          },
+          {
+            "id": "26f0e7e50333c874",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/Javascript Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Javascript Roadmap"
+            }
+          },
+          {
+            "id": "fb96ae2840b90043",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/Javascript Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Javascript Roadmap"
+            }
+          },
+          {
+            "id": "67e171868271e2bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/ES6 Classes & Static Methods.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ES6 Classes & Static Methods"
+            }
+          },
+          {
+            "id": "b137436f4f12a636",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/Javascript Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Javascript Roadmap"
+            }
+          },
+          {
+            "id": "1ae846f24a75725c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/Javascript Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Javascript Roadmap"
+            }
+          },
+          {
+            "id": "2b16c65dc37432b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/Javascript Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Javascript Roadmap"
+            }
+          },
+          {
+            "id": "a79f7bf77bd81568",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Event Loop, Microtasks & Macrotasks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Event Loop, Microtasks & Macrotasks"
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 30
       }
     ],
     "direction": "vertical"
@@ -323,26 +561,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Event Loop, Microtasks & Macrotasks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "ec6d886331b34fe4",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Event Loop, Microtasks & Macrotasks"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -356,41 +585,49 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-  "active": "e5eb4c9ecd6d00ca",
+  "active": "a79f7bf77bd81568",
   "lastOpenFiles": [
-    "Untitled 2.base",
-    "Untitled 1.base",
-    "Variables in JavaScript.md",
+    "Event Loop, Microtasks & Macrotasks.md",
     "Javascript/Javascript Roadmap.md",
+    "Callbacks & Callback Hell.md",
+    "Common Object Methods.md",
+    "Javascript/ES6 Classes & Static Methods.md",
+    "Javascript/Binding.md",
+    "Javascript/Objects & Prototypes.md",
+    "Resources",
+    "Javascript/this is static usage.md",
+    "Resources/NotebookLM Mind Map (4).png",
+    "Resources/unnamed (1).png",
+    "Javascript/Prototypal vs Classical Inheritance.md",
+    "Resources/NotebookLM Mind Map (3).png",
+    "Resources/unnamed.png",
+    "Javascript/this in traditional function.md",
+    "Javascript/Functions & Scope.md",
+    "Javascript/HOF (Higher order functions).md",
+    "Resources/NotebookLM Mind Map (2).png",
+    "Javascript/Closures.md",
+    "Javascript/this clarity traditional and arrow function doc.md",
+    "Javascript/Stale state.md",
+    "React/Rendering in react.md",
+    "React/re-render.md",
+    "React/Hooks MasterClass.md",
     "React/custom hooks.md",
+    "this in normal function and arrow function.md",
+    "Javascript/Variables in JavaScript.md",
+    "policy deatils.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Module1 RoadMap.md",
+    "Untitled 2.base",
     "Javascript",
     "React/useContext.md",
-    "Module1 RoadMap.md",
-    "policy deatils.md",
-    "Untitled.base",
     "2025-11-16.md",
     "Untitled.canvas",
     "React/useState.md",
-    "AI project.md",
-    "React/Hooks MasterClass.md",
-    "React/useCallback.md",
-    "React/Rendering in react.md",
-    "React/stateful.md",
-    "React/stateless.md",
-    "React/useMemo.md",
-    "React/useEffect.md",
-    "React/useRef.md",
-    "React/useReducer.md",
-    "React/re-render.md",
     "Untitled 1.canvas",
-    "create a link.md",
-    "Welcome.md",
-    "link.md",
-    "crete.md",
     "React"
   ]
 }
