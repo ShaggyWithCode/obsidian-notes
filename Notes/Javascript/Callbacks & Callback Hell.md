@@ -57,3 +57,4 @@ async function processData(a) {
 ```
 
 
+- here we need to keep in mind that its function arrangement we do. i.e. passing callback function, or make function into promise . so here the function `getData()` will be having promise implementation inside. 

@@ -433,16 +433,198 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Event Loop, Microtasks & Macrotasks.md",
+                "file": "Javascript/Event Loop, Microtasks & Macrotasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Event Loop, Microtasks & Macrotasks"
             }
+          },
+          {
+            "id": "b192e642265674c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fetch API & Axios.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fetch API & Axios"
+            }
+          },
+          {
+            "id": "8e845303fd9fdad2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QBO App Architecture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "QBO App Architecture"
+            }
+          },
+          {
+            "id": "446adfdc59056de5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/Javascript Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Javascript Roadmap"
+            }
+          },
+          {
+            "id": "841c0d9e49c71391",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/Javascript Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Javascript Roadmap"
+            }
+          },
+          {
+            "id": "a32cca19aad0a990",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/Javascript Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Javascript Roadmap"
+            }
+          },
+          {
+            "id": "0c2de550fe6ad549",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/Iterators & Generators.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Iterators & Generators"
+            }
+          },
+          {
+            "id": "4b8faf136654463d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/Javascript Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Javascript Roadmap"
+            }
+          },
+          {
+            "id": "40a8487678f5765f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/Javascript Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Javascript Roadmap"
+            }
+          },
+          {
+            "id": "e9f0c3aadc02cd15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/Javascript Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Javascript Roadmap"
+            }
+          },
+          {
+            "id": "6b66f78077b87e32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/this clarity traditional and arrow function doc.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "this clarity traditional and arrow function doc"
+            }
+          },
+          {
+            "id": "427b7815c35af201",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/Javascript Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Javascript Roadmap"
+            }
+          },
+          {
+            "id": "1736816caf402787",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/Memory Management and Garbage collection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Memory Management and Garbage collection"
+            }
+          },
+          {
+            "id": "9af0b68d60988023",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/Memory Management and Garbage collection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Memory Management and Garbage collection"
+            }
           }
         ],
-        "currentTab": 30
+        "currentTab": 43
       }
     ],
     "direction": "vertical"
@@ -561,13 +743,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Event Loop, Microtasks & Macrotasks.md",
+                "file": "Javascript/Memory Management and Garbage collection.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Event Loop, Microtasks & Macrotasks"
+              "title": "Outline of Memory Management and Garbage collection"
             }
           }
         ],
@@ -588,20 +770,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "a79f7bf77bd81568",
+  "active": "f9dda2b0b3177872",
   "lastOpenFiles": [
-    "Event Loop, Microtasks & Macrotasks.md",
+    "Javascript/Memory Management and Garbage collection.md",
     "Javascript/Javascript Roadmap.md",
-    "Callbacks & Callback Hell.md",
-    "Common Object Methods.md",
+    "Javascript/Execution context and call stack.md",
+    "Javascript/Event Loop, Microtasks & Macrotasks.md",
+    "Javascript/WeakMap WeakSet.md",
+    "WeakMap/WeakSet.md",
+    "Javascript/Modules.md",
+    "WeakMap",
+    "Javascript/Symbols.md",
+    "Javascript/Common Object Methods.md",
+    "Javascript/Objects & Prototypes.md",
+    "Javascript/Iterators & Generators.md",
+    "Javascript/Template Literals.md",
+    "Javascript/Destructuring & spread & rest operators.md",
+    "Destructuring & spread",
+    "Javascript/Fetch API & Axios.md",
+    "QBO App Architecture.md",
+    "Javascript/JavaScript Async — One-Page Printable Cheat Sheet.md",
+    "Javascript/Callbacks & Callback Hell.md",
+    "Javascript/Prototypal vs Classical Inheritance.md",
     "Javascript/ES6 Classes & Static Methods.md",
     "Javascript/Binding.md",
-    "Javascript/Objects & Prototypes.md",
     "Resources",
     "Javascript/this is static usage.md",
     "Resources/NotebookLM Mind Map (4).png",
     "Resources/unnamed (1).png",
-    "Javascript/Prototypal vs Classical Inheritance.md",
     "Resources/NotebookLM Mind Map (3).png",
     "Resources/unnamed.png",
     "Javascript/this in traditional function.md",
@@ -610,23 +806,11 @@
     "Resources/NotebookLM Mind Map (2).png",
     "Javascript/Closures.md",
     "Javascript/this clarity traditional and arrow function doc.md",
-    "Javascript/Stale state.md",
-    "React/Rendering in react.md",
-    "React/re-render.md",
-    "React/Hooks MasterClass.md",
-    "React/custom hooks.md",
-    "this in normal function and arrow function.md",
-    "Javascript/Variables in JavaScript.md",
-    "policy deatils.md",
     "Untitled 1.base",
     "Untitled.base",
-    "Module1 RoadMap.md",
     "Untitled 2.base",
     "Javascript",
-    "React/useContext.md",
-    "2025-11-16.md",
     "Untitled.canvas",
-    "React/useState.md",
     "Untitled 1.canvas",
     "React"
   ]

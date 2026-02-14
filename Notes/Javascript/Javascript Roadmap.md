@@ -11,3 +11,12 @@ functions look up to data of in which environment they are created in.
 9. [[Common Object Methods]]
 10. [[Callbacks & Callback Hell]]
 11. [[Event Loop, Microtasks & Macrotasks]]
+12. [[Fetch API & Axios]]
+13. . [[Destructuring & spread & rest operators]]
+14. [[Template Literals]] (\` \`)
+15. [[Modules]] : Import & Export
+16. [[Iterators & Generators]]
+17. [[Symbols]] & [[WeakMap WeakSet]]
+18. [[Execution context and call stack]]
+19. [[Memory Management and Garbage collection]]
+
