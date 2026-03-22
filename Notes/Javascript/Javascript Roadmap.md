@@ -19,4 +19,6 @@ functions look up to data of in which environment they are created in.
 17. [[Symbols]] & [[WeakMap WeakSet]]
 18. [[Execution context and call stack]]
 19. [[Memory Management and Garbage collection]]
+20. [[Event Delegation]]
+21. [[Debouncing and Throttling]]
 
